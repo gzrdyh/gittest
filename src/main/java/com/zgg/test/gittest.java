@@ -21,7 +21,7 @@ public class gittest {
         System.out.println("hello pull1");
         System.out.println("hello pushgitee");
         System.out.println("hello pushgitee2");
-        System.out.println("hello pullgitee2"ll
+        System.out.println("hello pullgitee2");
 
 
     }
