@@ -19,6 +19,7 @@ public class gittest {
         System.out.println("hello push");
         System.out.println("hello push1");
         System.out.println("hello pull1");
+        System.out.println("hello pushgitee");
 
 
     }
